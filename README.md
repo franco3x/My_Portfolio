@@ -4,7 +4,7 @@ My data science portfolio
 
 # [Project 1: Diamond Dataset Exploratory Data Analysis](https://github.com/franco3x/Diamonds-EDA)
 
-![]() upload images to the images folder, then put the links here
+![]() upload images to the images folder, then put the links here. don't put the entire path. just include /images/blah
 
 # [Project 2:        ]()
 
